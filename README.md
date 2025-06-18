@@ -19,7 +19,11 @@ Mobile App: Blynk app and Web Application
 
 ![image](https://github.com/user-attachments/assets/0d34a601-d604-4549-a308-d2be4e59415b)
 
-![image](https://github.com/user-attachments/assets/7b9a18a6-038d-49e5-b136-0a6996c8baa5)
+![image](https://github.com/user-attachments/assets/a0e6bf34-9983-434c-bd9e-e3d7d56b847b)
+
+![image](https://github.com/user-attachments/assets/c9dd4f3a-18c7-4019-a858-6178ab9d1967)
+
+
 
 # Flowchart:
 ![image](https://github.com/user-attachments/assets/8dc5b508-7ac9-4cf2-b6d1-bccc5e126658)
